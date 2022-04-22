@@ -5,5 +5,4 @@ Hello World iOS app
 - macOS Monterey 12.3.1
 
 ## Install Xcode
-- Install [Xcode 13.3.1.xip](https://developer.apple.com/download/all/?q=Xcode).
-
+- [Xcode 13.3.1.xip](https://developer.apple.com/download/all/?q=Xcode)
