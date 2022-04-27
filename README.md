@@ -21,3 +21,4 @@ Hello World iOS app
 
 ## Reference
 - https://medium.com/swlh/your-first-ios-application-using-xcode-9983cf6efb71
+- https://echobind.com/post/how-to-get-your-ios-app-into-testflight-and-test-it-for-xcode-13
