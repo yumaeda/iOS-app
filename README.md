@@ -7,6 +7,11 @@ Hello World iOS app
 ## Install Xcode
 - [Xcode 13.3.1.xip](https://developer.apple.com/download/all/?q=Xcode)
 
+## Run
+```sh
+[command] + r
+```
+
 ## Misc
 ### Storyboard
 - Supports iOS 5+
